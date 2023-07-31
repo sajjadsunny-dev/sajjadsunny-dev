@@ -1,4 +1,4 @@
-![logo](https://github.com/sajjadsunnyofficial/sajjadsunnyofficial/blob/main/linkedin%20banner.jpg)
+![logo]([https://github.com/sajjadsunnyofficial/sajjadsunnyofficial/blob/main/linkedin%20banner.jpg](https://github.com/sajjadsunnyofficial/sajjadsunnyofficial/blob/main/Frame%201.png))
 <h1 align="center">Hi 👋, I'm Sajjad Hossain Sunny</h1>
 <h3 align="center">A passionate Web Designer from Dhaka, Bangladesh. And MERN stack Developer Student.</h3>
 
