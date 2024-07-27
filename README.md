@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **React, Django, MongoDB, Express.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sajjadsunnyofficial?tab=repositories](https://github.com/sajjadsunnyofficial?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sajjadsunny-dev?tab=repositories](https://github.com/sajjadsunny-dev?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **sajjadhossainsunny.official@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/n5nf6](https://rb.gy/n5nf6)
+- 📄 Know about my experiences at [https://sajjadsunny-portfolio.vercel.app/](https://sajjadsunny-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I'm Friendly**
 
