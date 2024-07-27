@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **sajjadhossainsunny.official@gmail.com**
+- 📫 How to reach me **sajjadhossainsunny.dev@gmail.com**
 
 - 📄 Know about my experiences at [https://sajjadsunny-portfolio.vercel.app/](https://sajjadsunny-portfolio.vercel.app/)
 
